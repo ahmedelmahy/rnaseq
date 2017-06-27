@@ -1,0 +1,12 @@
+---
+title: "RNASeq based classification of complex diseases"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The project repository includes:
+load.R for loading data and required packages
+tidy.R for manipulating the data making a RNAseq count matrix
