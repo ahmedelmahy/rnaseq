@@ -8,5 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 The project repository includes:
-load.R for loading data and required packages
-tidy.R for manipulating the data making a RNAseq count matrix
+R/load.R for loading data and required packages
+R/tidy.R for manipulating the data making a RNAseq count matrix
+workflowDoc.Rmd for generating the workflow document
+
+
+

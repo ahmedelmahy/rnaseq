@@ -1,4 +1,6 @@
 # loading required packages
-library(ggplot2)
+#source("http://bioconductor.org/biocLite.R"); biocLite("polyester")
 
-# simulating data
+
+# simulating RNAseq data
+
